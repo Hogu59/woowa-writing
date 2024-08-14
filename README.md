@@ -44,7 +44,7 @@
 > 그렇게 주어진 일들을 시도해보고, 이후엔 일을 더 잘게 쪼개서 시도해보았다.
 > 점차 하나씩 해내고 있는 자신을 발견하게 되었고, 자신감을 얻게 되었다.
 
-<img src="https://cdn.maily.so/tk3e64axec2531cdv7ucmqwh9mo3" width="400dx">
+<img src="/images/pelican.png" width="400dx">
 
 > ## 제 10국. 대국에 관하여
 - 대국(對局) : 바둑이나 장기에서 선수들 간의 대결; 일의 어떤 국면에 마주한다.
